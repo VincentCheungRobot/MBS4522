@@ -40,8 +40,8 @@ Adafruit_PWMServoDriver pwm = Adafruit_PWMServoDriver(PCA9685_I2C_ADDRESS);
 #define SERVO_FREQ 50 // Analog servos run at ~50 Hz updates
 // WiFi Setting
 
-const char* ssid = "TP-Link_E944";
-const char* password = "SeeWhat9?";
+const char* ssid = "Linksys03688";
+const char* password = "ivelwl2022";
 const char* ntpServer = "pool.ntp.org";
 const char* mqtt_server = "test.mosquitto.org";
 const long gmtOffset_sec = 28800;
